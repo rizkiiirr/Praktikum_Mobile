@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">ScrollAble List(Compose)</string>
+    <string name="title1">Dark Chocolate</string>
+    <string name="title2">Milk Chocolate</string>
+    <string name="title3">White Chocolate</string>
+    <string name="title4">Hazelnut Chocolate</string>
+    <string name="title5">Mint Chocolate</string>
+    <string name="description1">Dark chocolate is a form of chocolate made from cocoa solids, cocoa butter and sugar.
+    It has a higher cocoa percentage than white chocolate, milk chocolate, and semisweet chocolate.</string>
+    <string name="description2">Milk chocolate is a form of solid chocolate containing cocoa, sugar and milk.
+    Milk chocolate contains smaller amounts of cocoa solids than dark chocolates do, and (as with white chocolate) contains milk solids.</string>
+    <string name="description3">White chocolate is a chocolate made from cocoa butter, sugar and milk solids.
+        It is ivory in color and lacks the dark appearance of most other types of chocolate as it does not contain the non-fat components of cocoa (cocoa solids).</string>
+    <string name="description4">Hazelnut  chocolate adds a new dimension to the flavor by combining the flavor of chocolate with the distinctive hazelnut  nut.
+    The hazelnut  provides a savory, crunchy, and slightly sweet touch that complements the richness of the chocolate.</string>
+    <string name="description5">Mint chocolate (or chocolate mint) is a popular flavor of chocolate, made by adding a mint flavoring, such as peppermint, spearmint, or crème de menthe, to chocolate.
+    Mint chocolate can be found in a wide variety of confectionery items, such as candy, mints, cookies, mint chocolate chip ice cream, hot chocolate, and others.</string>
+    <string name="link1">https://en.wikipedia.org/wiki/Dark_chocolate</string>
+    <string name="link2">https://en.wikipedia.org/wiki/Milk_chocolate</string>
+    <string name="link3">https://en.wikipedia.org/wiki/White_chocolate</string>
+    <string name="link4">https://kioskcokelat.com/blogs/news/perbedaan-coklat-dan-coklat-hazelnut</string>
+    <string name="link5">https://en.wikipedia.org/wiki/Chocolate#Flavors</string>
 </resources>

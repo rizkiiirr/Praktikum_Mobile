@@ -1,6 +1,5 @@
 package com.example.scrollablelistxml
 
-
 data class Chocolate(
     val id: Int,
     val name: String,

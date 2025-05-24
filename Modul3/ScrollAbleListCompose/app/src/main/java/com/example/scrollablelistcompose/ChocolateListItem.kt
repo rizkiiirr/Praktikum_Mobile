@@ -89,17 +89,3 @@ fun ChocolateListItem(chocolate: Chocolate, onDetailClick: (Chocolate) -> Unit) 
         }
     }
 }
-
-@Composable
-fun ChocolateImage(chocolate: Chocolate, modifier: Modifier = Modifier) {
-    Image(
-        painter = painterResource(id = chocolate.chocolateImageId),
-        contentDescription = null,
-        contentScale = ContentScale.Crop,
-        modifier = Modifier
-            .padding(8.dp)
-            .width(120.dp)
-            .height(150.dp)
-            .clip(RoundedCornerShape(16.dp))
-    )
-}
