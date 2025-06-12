@@ -24,6 +24,7 @@ class ChocolateViewModel(private val param: String) : ViewModel() {
 
     init {
         loadChocolates()
+
     }
 
     private fun loadChocolates() {
